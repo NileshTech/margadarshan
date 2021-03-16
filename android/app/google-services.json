@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "726053885955",
+    "firebase_url": "https://project-margadarshan-default-rtdb.firebaseio.com",
+    "project_id": "project-margadarshan",
+    "storage_bucket": "project-margadarshan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726053885955:android:f6bd4776c3a57f7c58d636",
+        "android_client_info": {
+          "package_name": "com.project.margadarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726053885955-uv4ub2ribp5srhcb7fsi6p5oa70legpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.margadarshan",
+            "certificate_hash": "c3b444c0f29acdf0989c2378d317495c89332341"
+          }
+        },
+        {
+          "client_id": "726053885955-gjg13028nsd8i6fij3q2mmnud7b1l6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSG8eG_CjD8BMqSqK56xalxWIPTAJvSKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726053885955-gjg13028nsd8i6fij3q2mmnud7b1l6ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726053885955:android:e7f7598fc140161558d636",
+        "android_client_info": {
+          "package_name": "com.suffix.margadarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726053885955-b8n92f3ar3v674uuonglbhtu28ib122o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suffix.margadarshan",
+            "certificate_hash": "ceea30d6faad0e4ceb907d0fb930e79e418cc024"
+          }
+        },
+        {
+          "client_id": "726053885955-gjg13028nsd8i6fij3q2mmnud7b1l6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSG8eG_CjD8BMqSqK56xalxWIPTAJvSKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726053885955-gjg13028nsd8i6fij3q2mmnud7b1l6ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
